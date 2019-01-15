@@ -13,7 +13,7 @@ A React skeleton for building front end applications
 ![GitHub stars](https://img.shields.io/github/stars/saapooch/React-Boilerplate.svg?style=social&label=Stars)
 ![GitHub watchers](https://img.shields.io/github/watchers/saapooch/React-Boilerplate.svg?style=social&label=Watch)
 
-A skeleton repository for developing web applications with Flask.
+A skeleton repository for developing web applications with React.
 *** NOTE: This repository is still under development and will be periodically added too ***
 
 ## Contents
